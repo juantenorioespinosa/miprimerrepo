@@ -1,3 +1,0 @@
-Este es un fichero nuevo en la rama dev
-
-actualizando el fichero para ver si lo ignora cuando lo añada a gitignore. Ya que este fichero antes de crear .ignore
