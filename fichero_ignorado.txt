@@ -1,0 +1,1 @@
+fichero .txt que va a ser ignorado porque lo he creado despues de añadir la excepcion *.txt en .gitignore
